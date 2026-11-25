@@ -1,0 +1,25 @@
+GEMINI VIDEO CREATION BRIEF — STELLY
+
+Create a 35–38 second vertical 9:16 promotional video (1080x1920, 30fps, MP4 H.264) for Stelly, using the supplied landing-page source/screenshots and the actual Stelly phone mockup as visual references.
+
+PRODUCT TRUTH
+Stelly is an AI daily planning assistant being built. A user tells Stelly everything on their mind in messy natural language. Stelly turns it into a realistic daily plan, highlights one clear first action called “START HERE”, and makes estimates visible (for example, “I guessed 1 hour”). This is a waitlist campaign, not a public launch. Do not imply that the demo is live AI or that the product is already generally available.
+
+VISUAL STYLE
+Premium, calm, minimal and human. Warm off-white (#FBFAF6), charcoal (#1C1B18), muted gold (#D6A92F), soft natural shadows. Clean Manrope/DM Sans-like typography, gentle transitions and subtle motion. Use the Stelly four-point star. No robots, brains, sci-fi circuitry, holograms, fake testimonials, fabricated user counts, ratings or app-store badges.
+
+SHOT LIST
+0–5s — Problem: close-up of a crowded notes app or paper list; person pauses, unsure where to start. Text: “A hundred things on your mind?” VO: “Ever wake up with a hundred things on your mind and no idea where to start?”
+5–12s — Input: show the Stelly phone interface and type: “gym maybe, that work thing, mum called, buy stuff”. Text: “Just tell Stelly. Messy is fine.” VO: “Just tell Stelly everything. Even if it comes out messy.”
+12–21s — Transformation: star gently pulses; show “Sorting your day…” then reveal the schedule and gold START HERE card. Briefly show “I guessed 1 hour”. Text: “A realistic plan. One clear first step.” VO: “Stelly turns the chaos into a realistic plan, and makes its guesses clear.”
+21–29s — Payoff: close-up on START HERE, then a person calmly begins the task. Text: “Know what to do first.” VO: “So you can stop figuring out your day and start living it.”
+29–38s — CTA: clean end card with star, Stelly wordmark and waitlist page. Text: “Your day, figured out.” / “Join the Stelly waitlist” / “Early access · No spam”. VO: “Stelly is being built now. Join the waitlist and be among the first to try it.”
+
+EDITING
+Natural, warm voiceover, soft upbeat instrumental below it, accurate captions with social-safe margins, readable UI, no rushed cuts. Hold end card for at least 3 seconds. No watermark.
+
+DELIVER
+1. Finished MP4.
+2. Separate voiceover script and SRT captions.
+3. Thumbnail/cover frame reading “Wake up knowing what to do first.”
+4. If you cannot render MP4, provide all assets and a shot-by-shot edit plan and state what remains to assemble.
